@@ -343,8 +343,8 @@ margin-top:18px;
 
 .logo-container{
 background-image: url(images/egg.jpg);
-    background-size: 100% 99.99%;
-    opacity: 0.9;
+    background-size: auto;
+    
 width: 100%;
 
 /*    height: 68%;*/
